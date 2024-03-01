@@ -10,29 +10,17 @@
 ## Passo 1
 - Abrir a página do Portal [https://portal.azure.com/#home](https://portal.azure.com/#home) e clicar para criar um recurso.
 
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/6bc43467-d189-4de9-a81a-f7ab8e0db078)
-
 ## Passo 2
 - Com as funcionalidades adicionadas, basta clicar em "continue to create your resource"
-
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/5bb2b5e1-e5eb-4bc1-9115-dc638ee4966a)
-
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/2038b430-4fa4-4c58-9b0d-4e58ff7411f6)
-
 
 ## Passo 3
 - Preencher as informações do recurso conforme imagem abaixo.
 - Escolha um resource group, um nome (que deve ser único), e o Pricing Tier deve ser Free F0.
 
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/b58bf3bf-d582-4cdc-a328-ff8cf2153c76)
-
 - Não esquecer de marcar a caixa com a observação de Responsabilidade AI.
-
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/838936e6-eb49-46d1-8e5e-d1ae982dd573)
 
 - E então clique em Review + create para a validação das informações
 
-![image](https://github.com/giselle-ferreira/language-studio-microsoft-azure/assets/84051263/7d7c96dc-5421-430b-af34-560663ebb187)
 
 ## Passo 4
 - Depois da validação anterior, sua tela deve se parecer com esta.
