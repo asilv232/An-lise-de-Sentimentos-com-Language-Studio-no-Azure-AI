@@ -1,4 +1,4 @@
-# Anlise-de-Sentimentos-com-Language-Studio-no-Azure-AI
+# Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI
 
 - Passo a passo de experimento utilizando **Language Studio** para análise de texto com análise de sentimentos e opiniões. 
 - Realizado como desafio de projeto no Bootcamp **Microsoft Azure AI Fundamentals** da [Dio.me](https://dio.me)
